@@ -1,0 +1,3 @@
+2024-07-29T16:59:42.108+05:30  INFO 15860 --- [thirdparty-api-call] [main] .t.a.c.ThirdpartyApiCallApplicationTests : Starting ThirdpartyApiCallApplicationTests using Java 17.0.11 with PID 15860 (started by admin in C:\Coding Shuttle\thirdparty-api-call)
+2024-07-29T16:59:42.110+05:30  INFO 15860 --- [thirdparty-api-call] [main] .t.a.c.ThirdpartyApiCallApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T16:59:45.037+05:30  INFO 15860 --- [thirdparty-api-call] [main] .t.a.c.ThirdpartyApiCallApplicationTests : Started ThirdpartyApiCallApplicationTests in 3.672 seconds (process running for 5.313)
